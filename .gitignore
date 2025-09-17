@@ -1,0 +1,7 @@
+.terraform.Name
+.venv.Name
+.gitignore.Name
+.terraform.lock.hcl.Name
+terraform.tfstate
+terraform.tfstate.backup
+testing.terraform.lock.hcl
